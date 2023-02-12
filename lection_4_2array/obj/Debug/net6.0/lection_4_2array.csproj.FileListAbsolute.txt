@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\bin\Debug\net6.0\lection_4_2array.exe
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\bin\Debug\net6.0\lection_4_2array.deps.json
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\bin\Debug\net6.0\lection_4_2array.runtimeconfig.json
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\bin\Debug\net6.0\lection_4_2array.dll
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\bin\Debug\net6.0\lection_4_2array.pdb
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\obj\Debug\net6.0\lection_4_2array.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\obj\Debug\net6.0\lection_4_2array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\obj\Debug\net6.0\lection_4_2array.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\obj\Debug\net6.0\lection_4_2array.AssemblyInfo.cs
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\obj\Debug\net6.0\lection_4_2array.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\obj\Debug\net6.0\lection_4_2array.dll
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\obj\Debug\net6.0\refint\lection_4_2array.dll
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\obj\Debug\net6.0\lection_4_2array.pdb
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\obj\Debug\net6.0\lection_4_2array.genruntimeconfig.cache
+C:\Users\User\Desktop\Мое обучение в Gegbrain\Untitled (workspace)\Exemples_1\lection_4_2array\obj\Debug\net6.0\ref\lection_4_2array.dll
